@@ -1,0 +1,50 @@
+D:\Code\C#\lib_managemenet_system\bin\Debug\lib_managemenet_system.exe.config
+D:\Code\C#\lib_managemenet_system\bin\Debug\lib_managemenet_system.exe
+D:\Code\C#\lib_managemenet_system\bin\Debug\lib_managemenet_system.pdb
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.csproj.AssemblyReference.cache
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.Form1.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.Properties.Resources.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.csproj.GenerateResource.cache
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.csproj.CoreCompileInputs.cache
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.exe
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.pdb
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.Dashbord.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.AddBook.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.viewBook.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.add_student.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.viewStudent.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.issuBooks.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.returnBook.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.CompleateBookDetails.resources
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.signup.resources
+D:\Code\C#\lib_managemenet_system\bin\Debug\lib_managemenet_system.exe.manifest
+D:\Code\C#\lib_managemenet_system\bin\Debug\lib_managemenet_system.application
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.exe.manifest
+D:\Code\C#\lib_managemenet_system\obj\Debug\lib_managemenet_system.application
+D:\Code\C#\lib_managemenet_system\bin\Debug\lib_admin.mdf
+D:\Code\C#\lib_managemenet_system\bin\Debug\lib_admin_log.ldf
+D:\Code\C#\lib_managemenet_system - Copy\bin\Debug\lib_admin.mdf
+D:\Code\C#\lib_managemenet_system - Copy\bin\Debug\lib_admin_log.ldf
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.csproj.AssemblyReference.cache
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.addBook.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.add_student.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.CompleateBookDetails.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.Dashbord.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.Form1.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.issuBooks.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.Properties.Resources.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.returnBook.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.signup.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.viewBook.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.viewStudent.resources
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.csproj.GenerateResource.cache
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib_managemenet_system.csproj.CoreCompileInputs.cache
+D:\Code\C#\lib_managemenet_system - Copy\bin\Debug\lib managemenet system.exe.config
+D:\Code\C#\lib_managemenet_system - Copy\bin\Debug\lib managemenet system.exe.manifest
+D:\Code\C#\lib_managemenet_system - Copy\bin\Debug\lib managemenet system.application
+D:\Code\C#\lib_managemenet_system - Copy\bin\Debug\lib managemenet system.exe
+D:\Code\C#\lib_managemenet_system - Copy\bin\Debug\lib managemenet system.pdb
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib managemenet system.exe.manifest
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib managemenet system.application
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib managemenet system.exe
+D:\Code\C#\lib_managemenet_system - Copy\obj\Debug\lib managemenet system.pdb
